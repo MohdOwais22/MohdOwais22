@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome To My Profile ###
 
-<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/MohdOwais22/MohdOwais22/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 
 <!--
