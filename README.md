@@ -93,22 +93,22 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MohdOwais22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdOwais22&layout=compact">
+</div> 
+<br/>
 
-<br/>  
 
 
 ## Recent Blog Posts  
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315td7bcq5gdq5b63tt2ia554jja&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=315td7bcq5gdq5b63tt2ia554jja&cover_image=true&theme=default" />
 </div>  
-  
+
+
+
 
 <br/>  
 
