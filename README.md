@@ -1,6 +1,5 @@
 ### Hi there 👋 Welcome To My Profile ###
 
-header.png
 
 <!--
 **MohdOwais22/MohdOwais22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
