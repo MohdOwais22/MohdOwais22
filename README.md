@@ -100,19 +100,6 @@
 
 
 
-## Recent Blog Posts  
-<br/>  
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=315td7bcq5gdq5b63tt2ia554jja&cover_image=true&theme=default" />
-</div>  
-
-
-
-
-<br/>  
-
-
 <br />
 
 ----
