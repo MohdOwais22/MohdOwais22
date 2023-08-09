@@ -9,7 +9,7 @@
 - 🔭 I’m currently enrolled in UG course in KIIT  
   
 
-- 🌱 I’m currently learning MERN stack  
+- 🌱 I’m currently working in MERN stack  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
