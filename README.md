@@ -6,8 +6,11 @@
 ### <div align="center">I'm Mohd Owais, CSE Student 🚀</div>  
   
 
-- 🔭 I’m currently enrolled in UG course in KIIT  
-  
+- 🔭 I’m currently enrolled in UG course in KIIT
+
+
+- 🔭 Ex-Full Stack Intern @NeuralSpace  
+
 
 - 🌱 I’m currently working in MERN stack  
   
