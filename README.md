@@ -9,7 +9,7 @@
 - 🔭 I’m currently enrolled in UG course in KIIT
 
 
-- 🔭 SDE@Rootskart || Ex-Full Stack Intern @NeuralSpace  
+- 🔭 SDE @Rootskart || Ex-Full Stack Intern @NeuralSpace  
 
 
 - 🌱 I’m currently working in MERN stack  
